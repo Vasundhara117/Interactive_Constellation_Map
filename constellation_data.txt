@@ -1,0 +1,49 @@
+[Orion]
+Alias: The Hunter
+Major Stars: Betelgeuse, Rigel, Bellatrix, Mintaka, Alnilam, Saiph
+Fact: Orion is one of the most recognizable constellations and represents a hunter from Greek mythology.
+
+[Ursa Major]
+Alias: The Great Bear
+Major Stars: Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid
+Fact: Ursa Major contains the Big Dipper asterism, which is often used to find the North Star.
+
+[Ursa Minor]
+Alias: The Little Bear
+Major Stars: Polaris, Kochab, Pherkad, Epsilon UMi, Zeta UMi, Eta UMi, Yildun
+Fact: Ursa Minor includes Polaris, the current North Star.
+
+[Cassiopeia]
+Alias: The Queen
+Major Stars: Schedar, Caph, Gamma Cas, Ruchbah, Segin
+Fact: Cassiopeia is shaped like a W and is prominent in the northern sky.
+
+[Cygnus]
+Alias: The Swan
+Major Stars: Deneb, Sadr, Albireo, Gienah
+Fact: Cygnus is known as the Northern Cross and lies on the plane of the Milky Way.
+
+[Taurus]
+Alias: The Bull
+Major Stars: Aldebaran, Elnath, Pleione
+Fact: Taurus contains the bright star Aldebaran and the Pleiades star cluster.
+
+[Gemini]
+Alias: The Twins
+Major Stars: Castor, Pollux, Alhena, Wasat
+Fact: Gemini represents the twins Castor and Pollux from Greek mythology.
+
+[Leo]
+Alias: The Lion
+Major Stars: Regulus, Algieba, Zosma, Chort, Denebola, Adhafera
+Fact: Leo is a zodiac constellation best seen in spring.
+
+[Scorpius]
+Alias: The Scorpion
+Major Stars: Antares, Shaula, Sargas, Dschubba
+Fact: Scorpius is one of the most prominent constellations of the southern sky.
+
+[Lyra]
+Alias: The Lyre
+Major Stars: Vega, Sheliak, Sulafat
+Fact: Lyra contains Vega, the fifth-brightest star in the night sky.
