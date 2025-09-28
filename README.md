@@ -1,19 +1,19 @@
-# 🌌 Star Constellation Visualizer and Quiz
+#  Star Constellation Visualizer and Quiz
 
 This Python application allows users to explore star constellations through a **2D star map**, get **detailed constellation information**, and test their knowledge via an interactive **constellation quiz**.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🗺️ **2D Star Map**: Visual representation of stars with annotations and plotted constellations.
-- 🌟 **Constellation Explorer**: View major stars and fun facts about well-known constellations.
-- 🧠 **Interactive Quiz**: Take a quiz to test your knowledge of constellations.
-- 📚 **Customizable Data**: Star and constellation data are stored in easily editable Python dictionaries and external `.txt` files.
+-  **2D Star Map**: Visual representation of stars with annotations and plotted constellations.
+-  **Constellation Explorer**: View major stars and fun facts about well-known constellations.
+-  **Interactive Quiz**: Take a quiz to test your knowledge of constellations.
+-  **Customizable Data**: Star and constellation data are stored in easily editable Python dictionaries and external `.txt` files.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Make sure you have the following Python libraries installed:
 
@@ -23,7 +23,7 @@ Make sure you have the following Python libraries installed:
 - `adjustText`
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```plaintext
 .
